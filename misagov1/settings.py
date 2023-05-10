@@ -92,7 +92,7 @@ WSGI_APPLICATION = 'misagov1.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'django_insta',
+        'NAME': 'test1',
         'USER': 'root',
         'PASSWORD': 'Alex12340704!?11',
         'HOST': 'localhost',
