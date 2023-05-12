@@ -1,6 +1,6 @@
 # MiSaGo
 ________
-##CAFE
+## H2 CAFE
 ________
 ####미사고는 Python을 이용한 DJANGO FRAMEWORKS를 이용하여 제작합니다.
 ________
